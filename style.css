@@ -1,3 +1,21 @@
 .menuBar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.menuBarTop {
     text-align: center;
+}
+
+.menuBarBottom {
+    text-align: center;
+}
+
+.counters {
+    margin-right: 1em;
+}
+
+.counters p {
+    margin: 0em;
 }
