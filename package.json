@@ -1,0 +1,12 @@
+{
+  "name": "arcanium",
+  "version": "1.0.0",
+  "description": "idle game by Florian Solé",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc --build tsconfig.json",
+    "watch": "tsc --build tsconfig.json --watch"
+  },
+  "author": "Florian Solé",
+  "license": "ISC"
+}
