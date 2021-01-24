@@ -4,12 +4,9 @@
     justify-content: center;
 }
 
-.menuBarTop {
+.menuBarTop, .menuBarBottom{
     text-align: center;
-}
-
-.menuBarBottom {
-    text-align: center;
+    margin: 0;
 }
 
 .counters {
@@ -18,4 +15,9 @@
 
 .counters p {
     margin: 0em;
+}
+
+.map, .inventory, .settings{
+    display: flex;
+    margin-left: 1em;
 }
